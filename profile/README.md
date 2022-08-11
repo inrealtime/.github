@@ -1,3 +1,4 @@
 ## inrealtime
 
-This is the profile readme
+* Get Auth working
+* Get authed WebSocets running
